@@ -40,7 +40,7 @@ const ELDERS = [
    {
       img: "images/don.png",
   name: "Don Pengucci",
-  backName: "哈利波特大",
+  backName: "DORY",
   role: "Underwater Boss Who Keeps Threatening to Retire",
   bio: "A handsome gangster penguin who flawlessly rules the underwater world, bossily scolding everyone while dramatically threatening fake retirements. but wait? what's he doing here?"
    },
@@ -294,7 +294,7 @@ const FISHES = [
    {
       img: "images/notnemo.png",
   name: "Mexican Opossum-Fish",
-  backName: "Not Nemo",
+  backName: "Emilianoo",
   role: "Overly Dramatic taco lover",
   bio: "A flashy red fish who loves tacos and insists he is definitely NOT Nemo but a proud Mexican opossum-fish hybrid. No one has the heart to tell him opossums don’t live underwater."
 },
@@ -316,14 +316,14 @@ const FISHES = [
    {
     img: "images/octo.png",  
   name: "The Fortune-Telling Octopus",
-  backName: "",
+  backName: "Polleh",
   role: "Official Pond Fortune Teller",
   bio: "A mysterious brown octopus who predicts the future with absolute confidence… and is wrong about 90% of the time."
 },
    { 
       img: "images/dory.png",
       name: "The Blue Wizard Fish",
- backName: "哈利波特大", 
+ backName: "", 
 role: "Self-Proclaimed Underwater Wizard", 
       bio: "A fancy fish who is convinced she can cast spells by yelling ‘Expelliarmus!’ at seaweed and then acts surprised when nothing happens." 
    },
