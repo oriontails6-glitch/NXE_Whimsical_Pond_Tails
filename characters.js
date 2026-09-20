@@ -299,11 +299,11 @@ const FISHES = [
   bio: "A flashy red fish who loves tacos and insists he is definitely NOT Nemo but a proud Mexican opossum-fish hybrid. No one has the heart to tell him opossums don’t live underwater."
 },
    {
-      img: "images/xerox.png",
-  name: "The Fortnite Clownfish",
-  backName: "Xeroxx",
-  role: "Underwater Victory Royale Specialist",
-  bio: "A clownfish who somehow plays Fortnite…underwater.He builds forts out of coral,does the default dance after every win, and keeps asking the other fish if they want to squad up."
+      img: "images/orca.png",
+      name: "Mischievous Orca",
+      backName: "Xeroxx",
+      role: "Underwater Prankster & Chaos Coordinator",
+      bio: "He treats the entire ocean like his personal playground. Splash-bombs serious conversations, and somehow still manages to look innocent. Everyone knows he’s up to something, they just never catch him in time."
 },
    {
       
