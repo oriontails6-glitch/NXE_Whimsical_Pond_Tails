@@ -316,7 +316,7 @@ const FISHES = [
    { 
       img: "images/dory.png",
       name: "The Blue Wizard Fish",
- backName: "", 
+ backName: "Phantom", 
 role: "Self-Proclaimed Underwater Wizard", 
       bio: "A fancy fish who is convinced she can cast spells by yelling ‘Expelliarmus!’ at seaweed and then acts surprised when nothing happens." 
    },
