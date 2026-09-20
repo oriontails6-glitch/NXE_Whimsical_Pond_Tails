@@ -254,13 +254,6 @@ const DUCKLINGS = [
     bio: "Kind duckling who constantly checks on you before instantly dropping the silliest giggly punchline."
   },
   {
-    img: "images/cousins.jpg",
-    name: "The Cousins",
-    backName: "all other GNX members",
-    role: "The Pond Freak Squad",
-    bio: "little cousins, one shared brain cell, unlimited mud. Their full-time job is building mud islands and creating pure aquatic mayhem."
-  },
-  {
     img: "images/alexa.png",
     name: "Island Sharer Duckling",
     backName: "Alexa",
