@@ -278,8 +278,8 @@ const DUCKLINGS = [
       img: "images/mg.png",
   name: "Cookie Falcon",
   backName: "MiniGracie",
-  role: "Shadow Milk Cookie’s Biggest Fan & Pond Cookie Expert",
-  bio: "Completely obsessed with Cookie Run: Kingdom. She runs around the pond quoting cookie dialogues, tries to turn bread crumbs into ‘cookie ingredients’,Everyone already knows she’ll drag the whole nest into a Cookie Run session."
+  role: "Pond Cookie Expert",
+  bio: "Obsessed with Cookie Run: Kingdom. She runs around the pond quoting cookie dialogues, tries to turn bread crumbs into ‘cookie ingredients’,Everyone already knows she’ll drag the whole nest into a Cookie Run session."
 }
 ];
 const FISHES = [
