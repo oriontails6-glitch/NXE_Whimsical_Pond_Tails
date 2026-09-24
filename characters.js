@@ -273,6 +273,13 @@ const DUCKLINGS = [
   backName: "PAGERWISE",
   role: "The Always-On-Call fun Pager",
   bio: "Kind to the core. He carries a tiny glowing pager that goes off at the worst possible moments, then politely excuses himself with ‘One moment please…’ even if no one actually called him."
+},
+   {
+      img: "images/mg.png",
+  name: "Cookie Falcon",
+  backName: "MiniGracie",
+  role: "Shadow Milk Cookie’s Biggest Fan & Pond Cookie Expert",
+  bio: "Completely obsessed with Cookie Run: Kingdom. She runs around the pond quoting cookie dialogues, tries to turn bread crumbs into ‘cookie ingredients’,Everyone already knows she’ll drag the whole nest into a Cookie Run session."
 }
 ];
 const FISHES = [
