@@ -347,6 +347,49 @@ role: "Self-Proclaimed Underwater Wizard",
   backName: "ZEROONE",
   role: "Original Pond Resident & Professional Smart-Aleck",
   bio: "An electric eel and the very first creature to arrive in the pond. He’s smart, Funny, and slightly dangerous to high-five. "
+};
+   const FISHES = [
+      {
+  name: "Captain Fire Permit",
+  backName: "Rafid",
+  role: "Tiny Blue Dragon / Flame Safety Inspector",
+  bio: "A thumb-sized blue dragon who demands a signed permit before anyone lights anything, including himself. Is terrified of his own fire and hiccups into a wet sock whenever he gets nervous. Has been fined twice for his own sneeze."
+},
+      {
+  name: "Professor Headbutt",
+  backName: "JMC24",
+  role: "Moss-Green Elder Dragon / Part-Time Philosopher",
+  bio: "A stocky moss-green dragon with stubby horns who delivers a profound life lesson, then headbutts a tree stump for no reason. The stump has filed a complaint. The wisdom is still excellent."
+},
+      {
+  name: "Lord Fight-Me",
+  backName: "Adrien",
+  role: "Red Fire Dragon / Undefeated Because Unchallenged",
+  bio: "A bright red dragon with enormous confidence and a tiny flame who challenges rocks, clouds, and the moon to combat. Nobody accepts. He counts every refusal as a forfeit win, so his record is spotless."
+},
+      {
+  name: "Sir Weepy Thunder",
+  backName: "ThorRagnork",
+  role: "Giant Purple Thunder Dragon / Professional Sweetheart",
+  bio: "The biggest dragon in the clan, who sneezes lightning bolts and cries at sunsets. Once apologized to a worm for casting a shadow on it. Hugs first, thunders second."
+},
+      {
+  name: "Nanny",
+  backName: "Ministerofwar",
+  role: "Peach-Orange Dragon Nanny / Sits on Everything",
+  bio: "A plump peach dragon who sits on every egg she sees, including rocks, pumpkins, and one very confused duck. Runs naptime like a military campaign and loses every battle. Her stare alone ends arguments."
+},
+      {
+  name: "Hiccup Fireworks Gremlin",
+  backName: "Yepp",
+  role: "Teal Spark-Sized Dragon / Walking Incident",
+  bio: "A tiny teal dragon whose hiccups launch fireworks. Causes one incident a day, usually by accident, occasionally on purpose. Everyone is a little more flammable around her."
+},
+      {
+  name: "Tiny Quiet Doom",
+  backName: "Katrin",
+  role: "Smallest Dragon / Secret Apex Kaiju",
+  bio: "The smallest, palest dragon in the clan. Says four words a week and has never been seen to lose, lift, or startle. The other dragons walk around her very carefully and won't say why."
 }
 
 ];
@@ -366,5 +409,6 @@ const SECTIONS = [
   { id: "elders",    label: "The Elders",                data: ELDERS },
   { id: "family",    label: "Aunts, Uncles & In-Laws",    data: FAMILY },
   { id: "ducklings", label: "The Duckling Squad",         data: DUCKLINGS },
-   { id: "fishes", label: "The Oceanic Family",  data: FISHES}
+{ id: "fishes", label: "The Oceanic Family",  data: FISHES},
+{ id: "dragons", label: "Toddler Dragons",  data: DRAGONS}
 ];
