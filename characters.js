@@ -347,7 +347,8 @@ role: "Self-Proclaimed Underwater Wizard",
   backName: "ZEROONE",
   role: "Original Pond Resident & Professional Smart-Aleck",
   bio: "An electric eel and the very first creature to arrive in the pond. He’s smart, Funny, and slightly dangerous to high-five. "
-};
+  }
+];
    const DRAGONS = [
       {
          img: "images/rafid.png",
