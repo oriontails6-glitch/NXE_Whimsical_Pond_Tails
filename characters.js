@@ -348,44 +348,51 @@ role: "Self-Proclaimed Underwater Wizard",
   role: "Original Pond Resident & Professional Smart-Aleck",
   bio: "An electric eel and the very first creature to arrive in the pond. He’s smart, Funny, and slightly dangerous to high-five. "
 };
-   const FISHES = [
+   const DRAGONS = [
       {
+         img: "images/rafid.png",
   name: "Captain Fire Permit",
   backName: "Rafid",
   role: "Tiny Blue Dragon / Flame Safety Inspector",
   bio: "A thumb-sized blue dragon who demands a signed permit before anyone lights anything, including himself. Is terrified of his own fire and hiccups into a wet sock whenever he gets nervous. Has been fined twice for his own sneeze."
 },
       {
+     img: "images/jmc.png",
   name: "Professor Headbutt",
   backName: "JMC24",
   role: "Moss-Green Elder Dragon / Part-Time Philosopher",
   bio: "A stocky moss-green dragon with stubby horns who delivers a profound life lesson, then headbutts a tree stump for no reason. The stump has filed a complaint. The wisdom is still excellent."
 },
       {
+     img: "images/adrien.png",
   name: "Lord Fight-Me",
   backName: "Adrien",
   role: "Red Fire Dragon / Undefeated Because Unchallenged",
   bio: "A bright red dragon with enormous confidence and a tiny flame who challenges rocks, clouds, and the moon to combat. Nobody accepts. He counts every refusal as a forfeit win, so his record is spotless."
 },
       {
+         img: "images/thor.png",
   name: "Sir Weepy Thunder",
   backName: "ThorRagnork",
   role: "Giant Purple Thunder Dragon / Professional Sweetheart",
   bio: "The biggest dragon in the clan, who sneezes lightning bolts and cries at sunsets. Once apologized to a worm for casting a shadow on it. Hugs first, thunders second."
 },
       {
+         img: "images/nanny.png",
   name: "Nanny",
   backName: "Ministerofwar",
   role: "Peach-Orange Dragon Nanny / Sits on Everything",
   bio: "A plump peach dragon who sits on every egg she sees, including rocks, pumpkins, and one very confused duck. Runs naptime like a military campaign and loses every battle. Her stare alone ends arguments."
 },
       {
+         img: "images/yepp.png",
   name: "Hiccup Fireworks Gremlin",
   backName: "Yepp",
   role: "Teal Spark-Sized Dragon / Walking Incident",
   bio: "A tiny teal dragon whose hiccups launch fireworks. Causes one incident a day, usually by accident, occasionally on purpose. Everyone is a little more flammable around her."
 },
       {
+         img: "images/katrin.png",
   name: "Tiny Quiet Doom",
   backName: "Katrin",
   role: "Smallest Dragon / Secret Apex Kaiju",
